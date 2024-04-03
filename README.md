@@ -1,6 +1,6 @@
-# apihackathon-convertcurrency-app
+# wcd-vuln-app
 
 ```bash
-docker build -t currency-api . 
-docker run -p 8080:8080 -d --restart always --name currency-api currency-api
+docker build -t wcd-vuln-app . 
+docker run -p 8080:8080 -d --restart always --name wcd-vuln-app wcd-vuln-app
 ```
